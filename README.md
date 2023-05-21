@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ircama)](https://github.com/Ircama)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=github-readme-stats)](https://github.com/Ircama)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=construct-gallery)](https://github.com/Ircama)
