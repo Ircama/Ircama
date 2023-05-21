@@ -27,4 +27,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=Event_Logger" />
 </a>
 
-[atc_mi_interface](https://github.com/pvvx/ATC_MiThermometer/tree/master/python-interface)
+<a href="https://github.com/pvvx/ATC_MiThermometer/tree/master/python-interface>
+         </a>
