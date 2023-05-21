@@ -12,3 +12,21 @@
 <a href="https://github.com/Ircama/raspberry-pi-sim800l-gsm-module">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=raspberry-pi-sim800l-gsm-module" />
 </a>
+<a href="https://github.com/Ircama/AtTinyTestIR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=AtTinyTestIR" />
+</a>
+<a href="https://github.com/Ircama/IR2SLink">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=IR2SLink" />
+</a>
+<a href="https://github.com/Ircama/adc_to_i2c">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=adc_to_i2c" />
+</a>
+<a href="https://github.com/Ircama/raspberry_monitor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=raspberry_monitor" />
+</a>
+<a href="https://github.com/Ircama/test_attiny88_pins">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=test_attiny88_pins" />
+</a>
+<a href="https://github.com/Ircama/Event_Logger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=Event_Logger" />
+</a>
