@@ -1,3 +1,15 @@
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Ircama&show_icons=true&theme=transparent"
+/>
+</picture>
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ircama&layout=compact&theme=transparent"
+/>
+</picture>
+
 [![Ircama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ircama&show_icons=true&theme=transparent)](https://github.com/Ircama)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ircama&layout=compact&theme=transparent)](https://github.com/Ircama)
