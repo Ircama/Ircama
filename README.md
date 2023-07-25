@@ -30,6 +30,9 @@
 <a href="https://github.com/Ircama/Event_Logger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=Event_Logger&theme=transparent&text_color=78808a" />
 </a>
+<a href="https://github.com/Ircama/epson_print_conf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=epson_print_conf&theme=transparent&text_color=78808a" />
+</a>
 
 | [__atc_mi_interface__](https://github.com/pvvx/ATC_MiThermometer/tree/master/python-interface)  in https://github.com/pvvx/ATC_MiThermometer |
 |-|
