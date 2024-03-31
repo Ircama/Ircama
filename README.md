@@ -36,7 +36,7 @@
 <a href="https://github.com/Ircama/freetz-ble">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=freetz-ble&theme=transparent&text_color=78808a" />
 </a>
-<a href="https://github.com/ircama/TLSR825x_ADV_BLE2UART">
+<a href="https://github.com/pvvx/TLSR825x_ADV_BLE2UART">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pvvx&repo=TLSR825x_ADV_BLE2UART&theme=transparent&text_color=78808a" />
 </a>
 
