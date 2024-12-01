@@ -30,8 +30,8 @@
 <a href="https://github.com/Ircama/Event_Logger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=Event_Logger&theme=transparent&text_color=78808a" />
 </a>
-<a href="https://github.com/Ircama/epson_print_conf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=epson_print_conf&theme=transparent&text_color=78808a" />
+<a href="https://github.com/Ircama/qr-code-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=qr-code-generator&theme=transparent&text_color=78808a" />
 </a>
 <a href="https://github.com/Ircama/freetz-ble">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=freetz-ble&theme=transparent&text_color=78808a" />
