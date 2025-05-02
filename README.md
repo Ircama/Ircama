@@ -9,8 +9,8 @@
 <a href="https://github.com/Ircama/construct-gallery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=construct-gallery&theme=transparent&text_color=78808a" />
 </a>
-<a href="https://github.com/Ircama/raspberry-pi-sim800l-gsm-module">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=raspberry-pi-sim800l-gsm-module&theme=transparent&text_color=78808a" />
+<a href="https://github.com/Ircama/sim800l-gsm-module">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=sim800l-gsm-module&theme=transparent&text_color=78808a" />
 </a>
 <a href="https://github.com/Ircama/AtTinyTestIR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=AtTinyTestIR&theme=transparent&text_color=78808a" />
