@@ -54,6 +54,9 @@
 <a href="https://github.com/Ircama/oled_wiringPi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=oled_wiringPi&theme=transparent&text_color=78808a" />
 </a>
+<a href="https://github.com/Ircama/py-snmp-sync">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=py-snmp-sync&theme=transparent&text_color=78808a" />
+</a>
 
 | [__atc_mi_interface__](https://github.com/pvvx/ATC_MiThermometer/tree/master/python-interface)  in https://github.com/pvvx/ATC_MiThermometer |
 |-|
