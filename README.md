@@ -60,8 +60,8 @@
 <a href="https://github.com/Ircama/pysnmp-sync-adapter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=pysnmp-sync-adapter&theme=transparent&text_color=78808a" />
 </a>
-<a href="https://github.com/Ircama/epson_escp2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=epson_escp2&theme=transparent&text_color=78808a" />
+<a href="https://github.com/Ircama/pyprintlpr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=pyprintlpr&theme=transparent&text_color=78808a" />
 </a>
 <a href="https://github.com/Ircama/pyprintlpr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ircama&repo=pyprintlpr&theme=transparent&text_color=78808a" />
@@ -69,4 +69,3 @@
 
 | [__atc_mi_interface__](https://github.com/pvvx/ATC_MiThermometer/tree/master/python-interface)  in https://github.com/pvvx/ATC_MiThermometer |
 |-|
-
