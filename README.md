@@ -78,6 +78,9 @@
 <a href="https://github.com/ircama/freetz-evo">
   <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=freetz-evo&theme=transparent&text_color=78808a" />
 </a>
+<a href="https://github.com/Ircama/hidws">
+  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=hidws&theme=transparent&text_color=78808a" />
+</a>
 
 | [__atc_mi_interface__](https://github.com/pvvx/ATC_MiThermometer/tree/master/python-interface)  in https://github.com/pvvx/ATC_MiThermometer |
 |-|
