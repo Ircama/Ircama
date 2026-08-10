@@ -87,3 +87,24 @@
 
 | [__atc_mi_interface__](https://github.com/pvvx/ATC_MiThermometer/tree/master/python-interface)  in https://github.com/pvvx/ATC_MiThermometer |
 |-|
+
+---
+
+<a href="https://github.com/Ircama/fiiocontrol">
+  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=fiiocontrol&theme=transparent&text_color=78808a" />
+</a>
+<a href="https://github.com/Ircama/kt02h20-control">
+  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=kt02h20-control&theme=transparent&text_color=78808a" />
+</a>
+<a href="https://github.com/Ircama/Audiocular-Aura">
+  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=Audiocular-Aura&theme=transparent&text_color=78808a" />
+</a>
+<a href="https://github.com/Ircama/fiiocontrol-oss">
+  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=fiiocontrol-oss&theme=transparent&text_color=78808a" />
+</a>
+<a href="https://github.com/Ircama/webhid-explorer">
+  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=webhid-explorer&theme=transparent&text_color=78808a" />
+</a>
+<a href="https://github.com/Ircama/walkplay">
+  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=walkplay&theme=transparent&text_color=78808a" />
+</a>
