@@ -90,6 +90,7 @@
 
 ---
 
+<sub>
 <a href="https://github.com/Ircama/fiiocontrol">
   <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=fiiocontrol&theme=transparent&text_color=78808a" />
 </a>
@@ -108,3 +109,7 @@
 <a href="https://github.com/Ircama/walkplay">
   <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=walkplay&theme=transparent&text_color=78808a" />
 </a>
+<a href="https://github.com/Ircama/ktmicro-tools/tree/add-libusb-backend-and-ja11-support">
+  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=ktmicro-tools&theme=transparent&text_color=78808a" />
+</a>
+</sub>
