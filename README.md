@@ -75,8 +75,8 @@
 <a href="https://github.com/Ircama/github-readme-stats">
   <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=github-readme-stats&theme=transparent&text_color=78808a" />
 </a>
-<a href="https://github.com/ircama/freetz-evo">
-  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=freetz-evo&theme=transparent&text_color=78808a" />
+<a href="https://github.com/ircama/aws-lambda-reverse-proxy">
+  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=aws-lambda-reverse-proxy&theme=transparent&text_color=78808a" />
 </a>
 <a href="https://github.com/Ircama/hidws">
   <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=hidws&theme=transparent&text_color=78808a" />
