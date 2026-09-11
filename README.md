@@ -45,6 +45,9 @@
 <a href="https://github.com/Ircama/text_console">
   <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=text_console&theme=transparent&text_color=78808a" />
 </a>
+<a href="https://github.com/Ircama/tk_date_entry">
+  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=tk_date_entry&theme=transparent&text_color=78808a" />
+</a>
 <a href="https://github.com/Ircama/just-the-readme">
   <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=just-the-readme&theme=transparent&text_color=78808a" />
 </a>
