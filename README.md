@@ -18,6 +18,9 @@
 <a href="https://github.com/Ircama/IR2SLink">
   <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=IR2SLink&theme=transparent&text_color=78808a" />
 </a>
+<a href="https://github.com/Ircama/esp32-sony-slink">
+  <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=esp32-sony-slink&theme=transparent&text_color=78808a" />
+</a>
 <a href="https://github.com/Ircama/adc_to_i2c">
   <img align="center" src="https://github-readme-stats-ircama.vercel.app/api/pin/?username=Ircama&repo=adc_to_i2c&theme=transparent&text_color=78808a" />
 </a>
